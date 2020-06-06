@@ -1,5 +1,5 @@
 <template>
-  <div class="search-bar">search-bar</div>
+  <div class="search-panel">search-bar</div>
 </template>
 <script>
 export default {}
